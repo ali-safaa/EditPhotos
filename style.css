@@ -22,7 +22,8 @@ body {
   gap: 50px;
   align-items: center;
 }
-.img img {
+.img img,
+canvas {
   max-width: 45vw;
   max-height: 60vh;
 }
